@@ -1,7 +1,4 @@
 Testing
 Testing 123
 testing 456
-<<<<<<< HEAD
 Testing 789
-=======
->>>>>>> f25dd763ecc9a9ad55af0a5ba4596a6b7811d595
