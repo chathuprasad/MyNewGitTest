@@ -1,3 +1,9 @@
+<<<<<<< .merge_file_a07032
 
 testing update
 this is GIT testinc
+=======
+testing update
+this is GIT testinc
+this is next test
+>>>>>>> .merge_file_a09308
