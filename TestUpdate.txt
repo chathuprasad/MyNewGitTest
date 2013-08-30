@@ -5,8 +5,5 @@ Testing 789
 This is new Test
 This is new Test from prasad
 This is new Test form Other
-<<<<<<< HEAD
 This is from IN
-=======
 This is fom out
->>>>>>> 3c3a0f5ebc7ecfeaaa6092dc75331710ae49aba4
