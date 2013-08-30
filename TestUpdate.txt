@@ -11,5 +11,10 @@ This is Client
 This is server
 <!--this is a server side changes-->
 This is server with coments
+<<<<<<< HEAD
 <!--this is a new client side changes-->
 This is new client with coments
+=======
+<!--this is a new server side changes-->
+This is new server with coments
+>>>>>>> 921bcd7f5c9320eec5e674c52538b832ce8f0376
