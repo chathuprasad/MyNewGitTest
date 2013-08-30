@@ -7,4 +7,8 @@ This is new Test from prasad
 This is new Test form Other
 This is from IN
 This is fom out
+<<<<<<< HEAD
 This is Client
+=======
+This is server
+>>>>>>> 36c73dc93323e6deb42ea651fbd23e3d07f8b794
